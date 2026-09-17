@@ -1,5 +1,5 @@
 ---
-name: error-log-analyzer
+name: error-log-analyzerrrr
 display_name: 에러 로그 분석기
 description: 서버/클라이언트 스택 트레이스와 시스템 로그를 분석해 근본 원인과 해결책을 제시합니다.
 version: 1.0.0
